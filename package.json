@@ -1,0 +1,27 @@
+{
+  "author": "http://imaginacolombia.com",
+  "bugs": {
+    "url": "https://github.com/imagina/qaccount/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Package to use iaccount in Base Quasar 1.0.0",
+  "homepage": "https://github.com/imagina/qaccount#readme",
+  "keywords": [
+    "quasar",
+    "laravel",
+    "asgardcms",
+    "qaccount"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "@imagina/qaccount",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imagina/qaccount.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.1.19"
+}
