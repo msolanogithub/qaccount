@@ -2,13 +2,13 @@ export default {
   iaccount: {
     cms: {
       sidebar: {
-        adminAccount: 'Cuentas',
+        adminAccount: 'Clientes',
       },
-      newAccount: 'Nueva Cuenta',
-      updateAccount: 'Actualizar Cuenta',
+      newAccount: 'Nuevo Cliente',
+      updateAccount: 'Actualizar Cliente',
       documentType: 'Tipo de documento',
       document: 'Documento',
-      accountType: 'Tipo de cuenta',
+      accountType: 'Tipo de Cliente',
       locatables: 'Direcciones',
       contactItems: 'Contacto'
     },
